@@ -1,0 +1,4 @@
+used for haXe projects that want CasaLib.
+add using git submodule add git@github.com:theRemix/CasaLibHaXe.git src/org
+or something similar to get the org.casalib package in your src dir.
+also includes source .fla and .as files to generate more haXe classes as needed.
